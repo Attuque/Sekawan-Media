@@ -1,0 +1,13 @@
+{
+  "name": "sekawan-media",
+  "version": "1.0.0",
+  "description": "Booking system for Sekawan Media Photobooth",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
